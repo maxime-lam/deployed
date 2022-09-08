@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.74652414.css",
-    "main.js": "/static/js/main.90929b0b.js",
+    "main.css": "/static/css/main.c86a4754.css",
+    "main.js": "/static/js/main.5cce7f5a.js",
     "static/js/787.5fe8911e.chunk.js": "/static/js/787.5fe8911e.chunk.js",
-    "static/media/react.png": "/static/media/react.8a6fc0a24a800d1e0f4a.png",
-    "static/media/bootstrap.png": "/static/media/bootstrap.ed308d50dd35882af176.png",
-    "static/media/mysql.png": "/static/media/mysql.dea88f4a436a0dcf2d57.png",
-    "static/media/gitlab.png": "/static/media/gitlab.ccbdd29087718c6a01ff.png",
-    "static/media/js.webp": "/static/media/js.ff4e3c8c1c21c479f063.webp",
-    "static/media/phpmyadmin.png": "/static/media/phpmyadmin.ca0b6f728a2efe955dfa.png",
-    "static/media/php.webp": "/static/media/php.8d29a0d6e24702e1d80d.webp",
-    "static/media/css.webp": "/static/media/css.8fad6d38125b46f656c7.webp",
+    "static/media/coming-soon.jpg": "/static/media/coming-soon.cb400bd6a6bff565c2f9.jpg",
     "index.html": "/index.html",
-    "main.74652414.css.map": "/static/css/main.74652414.css.map",
-    "main.90929b0b.js.map": "/static/js/main.90929b0b.js.map",
+    "static/media/rendu-stage-1.md": "/static/media/rendu-stage-1.aa1f783c773aac5f7c9d.md",
+    "main.c86a4754.css.map": "/static/css/main.c86a4754.css.map",
+    "main.5cce7f5a.js.map": "/static/js/main.5cce7f5a.js.map",
     "787.5fe8911e.chunk.js.map": "/static/js/787.5fe8911e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74652414.css",
-    "static/js/main.90929b0b.js"
+    "static/css/main.c86a4754.css",
+    "static/js/main.5cce7f5a.js"
   ]
 }
